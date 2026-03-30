@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Temp files
+*.tmp
+.~lock.*
+
+# Claude
+.claude/
+
+# 图片/导出（可从 PPTX 重新导出）
+*.png
+*.pdf
